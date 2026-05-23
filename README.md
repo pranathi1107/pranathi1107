@@ -18,7 +18,6 @@ I'm a Master's student specializing in Computer Science and Data Science. I have
 I'm always excited to collaborate on open-source projects or discuss technical trends in data science, cloud computing, and full-stack development.
 
 * **LinkedIn:** [linkedin.com/in/pranathi-thotli](https://linkedin.com/in/pranathi-thotli)
-* **GitHub:** [github.com/pranathi1107](https://github.com/pranathi1107)
 * **Email:** pranathireddy.thotli@gmail.com
 
 ---
